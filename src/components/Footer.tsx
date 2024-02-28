@@ -8,8 +8,8 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p>
-            Discover music's magic at our premier Music School, fostering talent
-            and community for all skill levels.
+            Discover music&apos;s magic at our premier Music School, fostering
+            talent and community for all skill levels.
           </p>
         </div>
 
